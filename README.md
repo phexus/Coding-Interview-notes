@@ -1,2 +1,6 @@
-# Coding-Interview-notes
-Notes and Solutions for the Coding Interview's questions
+# 剑指offer（Coding Interview）笔记
+
+整理《剑指offer》的相关笔记与部分问题的解答，方便以后复习。
+
+\[gitbook链接\]\([https://phexus.gitbooks.io/coding-interview/content/](https://www.gitbook.com/book/phexus/coding-interview/edit#)\)
+
