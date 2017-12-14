@@ -22,7 +22,7 @@
 
 
 
-## 2.2.2  C#
+## 2.2.2  C sharp
 
 - struct 和 class 区别：
 
