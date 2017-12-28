@@ -3,3 +3,4 @@
 - [Introduction](README.md)
 - [第二章  面试需要的基础知识](chapter2.md)
 - [第三章  高质量的代码](chapter3.md)
+- [第四章  解决面试题的思路](chapter4.md)
